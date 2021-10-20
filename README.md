@@ -26,6 +26,9 @@
 <br />
 <br />
 
+---
+<img align="left" alt="Hub's Github stats" src="https://github-readme-stats.vercel.app/api?username=Hub-Varith&theme=tokyonight&show_icons=true"/>
+
 [facebook]: https://www.facebook.com/hubhaemavitch
 [instagram]: https://www.instagram.com/hub_varith/
 [youtube]: https://www.youtube.com/channel/UCFOTjImGNfXx2EBp5egy9Pw
