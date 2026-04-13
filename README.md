@@ -1,8 +1,8 @@
 ### Hi I'm Haemavitch(Hub) Varith 👨🏻‍💻👋
 
-## I'm the Founder & CTO of Infinite X and a High school student developer
+## I'm the Founder & CTO of Infinite X and a student developer
 - 🎧 Currently working on Audio Soucre Separation 
-- I'm a Flutter developer
+- I'm a Flutter & ML engineer
 - 🤖 Interested in AI 
 - 🎤 I'm also a musician! 🎸🎷
 
