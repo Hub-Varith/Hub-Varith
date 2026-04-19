@@ -1,35 +1,19 @@
 <!-- Header -->
 <div align="center">
   <a href="https://www.infinitexhub.com/">
-    <img src="./INFX-word-grad-logo.svg" alt="Infinite X" height="60" />
-  </a>
-  <br/><br/>
-  <a href="https://www.infinitexhub.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Hi+%F0%9F%91%8B+I'm+Haemavitch(Hub)+Varith;Founder+%26+CTO+of+Infinite+X" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://www.infinitexhub.com/">
-    <img src="./INFX-grad-logo.svg" alt="Infinite X" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/haemavitch-varith-228546210/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/hub_varith/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCFOTjImGNfXx2EBp5egy9Pw">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/hubhaemavitch">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://devpost.com/Hub-Varith">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://www.infinitexhub.com/"><img src="https://img.shields.io/badge/Infinite_X-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haemavitch-varith-228546210/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hub_varith/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCFOTjImGNfXx2EBp5egy9Pw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.facebook.com/hubhaemavitch"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://devpost.com/Hub-Varith"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Hub-Varith&style=for-the-badge&color=3B82F6" alt="Profile views" />
-</div>
+</p>
 
 <br/>
 
@@ -78,7 +62,7 @@ fun_fact: Competitive archer for Thailand 🏹 | Guitarist & Saxophonist 🎷
       <sub>Content creator · Tech & entrepreneurship</sub>
     </td>
     <td align="center">
-      <a href="https://www.infinitexhub.com/"><img src="./INFX-word-grad-logo.svg" alt="Infinite X" height="30" /></a><br/><br/>
+      <a href="https://www.infinitexhub.com/"><img src="https://img.shields.io/badge/Infinite_X-infinitexhub.com-000000?style=for-the-badge&logoColor=white" /></a><br/>
       <sub>Founder & CTO · AI hearing technology</sub>
     </td>
   </tr>
